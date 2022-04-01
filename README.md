@@ -2,6 +2,8 @@
 
 Use 2 EMA to set a trend/direction filter then trade on a break of high/low fractals.
 
+The Orchard Framework is available as a separate repository at https://github.com/OrchardForexTutorials/framework_3
+
 This code is for education and entertainment purposes only, it is not to be used for live trading.
 
 ### License
